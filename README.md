@@ -1,4 +1,4 @@
-### Projeto: Previsão de Preço de Energia com Base em Temperatura e Consumo Energético  
+# Projeto: Previsão de Preço de Energia com Base em Temperatura e Consumo Energético  
 
 Este projeto visa prever o preço da energia elétrica utilizando dados históricos de **temperatura**, **preço da energia** e **consumo energético** no estado da Califórnia, EUA, entre 2020 e 2023. A previsão é feita utilizando um **modelo de regressão linear**. Os dados são coletados de três APIs principais: a API da EIA (Energy Information Administration) para dados de energia, a API Open-Meteo para dados climáticos e uma API adicional de consumo energético.
 
