@@ -92,7 +92,7 @@ Global Solution 2 - RPA.ipynb
   - `fetch_weather_data()`: Busca dados climáticos da API Open-Meteo.  
   - `process_data()`: Integra e padroniza os dados de preço e temperatura.  
   - `save_to_storage()`: Salva os dados em CSV e SQLite.  
-  - `train_linear_model()`: Treina o modelo de regressão linear múltipla.  
+  - `train_linear_model()`: Treina o modelo de regressão linear.  
   - `train_random_forest_model()`: Treina o modelo Random Forest.  
   - `plot_predictions()`: Gera gráficos comparativos entre dados reais e previstos.  
 
